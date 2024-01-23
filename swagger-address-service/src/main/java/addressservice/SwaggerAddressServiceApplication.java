@@ -14,7 +14,5 @@ public class SwaggerAddressServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SwaggerAddressServiceApplication.class, args);
 	}
-
-
 }
 
